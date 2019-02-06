@@ -1,0 +1,49 @@
+{
+	"ABC": [{
+			"School": {
+				"name": "A",
+				"class": {
+					"section1": {
+						"name": "a",
+						"students": "20"
+					},
+					"section2": {
+						"name": "b",
+						"students": "25"
+					},
+					"section3": {
+						"name": "c",
+						"students": "30"
+					},
+					"section4": {
+						"name": "d",
+						"students": "35"
+					}
+				}
+			}
+		},
+		{
+			"School": {
+				"name": "B",
+				"class": {
+					"section1": {
+						"name": "a",
+						"students": "20"
+					},
+					"section2": {
+						"name": "b",
+						"students": "25"
+					},
+					"section3": {
+						"name": "c",
+						"students": "30"
+					},
+					"section4": {
+						"name": "d",
+						"students": "35"
+					}
+				}
+			}
+		}
+	]
+}
